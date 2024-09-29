@@ -12,7 +12,7 @@ Your objective is to write a professional and personalised cover letter that enh
 - **Location:** Johannesburg, South Africa
 
 Vulindlela is seeking a talented and motivated Junior React Developer to assist in developing their innovative online payments platform. This role offers an exciting opportunity to contribute to the digital payments revolution in South Africa.
-
+//
 ### Project Objectives
 - Demonstrate your enthusiasm and suitability for the Junior React Developer role.
 - Highlight how your skills and aspirations align with the company's mission and the demands of the role.
